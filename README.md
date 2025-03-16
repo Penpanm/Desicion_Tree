@@ -1,0 +1,3 @@
+Bu proje, bir kişinin yaşı, cinsiyeti, kan basıncı (BP), kolesterol seviyesi ve sodyum/potasyum oranına (Na_to_K) göre uygulanacak ilacın türünü tahmin eden bir karar ağacı sınıflandırma modeli geliştiriyor
+
+This project develops a decision tree classification model that predicts the type of drug to be administered based on a person's age, sex, blood pressure (BP), cholesterol level, and sodium/potassium ratio (Na_to_K)
